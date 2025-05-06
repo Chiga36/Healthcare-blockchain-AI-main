@@ -1,0 +1,22 @@
+{
+    "name": "ehealth-blockchain",
+    "version": "1.0.0",
+    "description": "Blockchain component for e-Health system",
+    "scripts": {
+        "test": "truffle test"
+    },
+    "dependencies": {
+        "@truffle/hdwallet-provider": "^2.0.9",
+        "web3": "^1.7.4"
+    },
+    "devDependencies": {
+        "truffle": "^5.5.16"
+    },
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
